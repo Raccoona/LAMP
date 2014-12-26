@@ -1,0 +1,97 @@
+.defaultpage{
+    /*background-image: url(images/head.jpg);*/
+	background-size: cover;
+    background-color: #F8ECE0;
+}
+
+.navbar{
+	height: 80px;
+	background-color: black;
+	width: 100%;
+}
+
+.nav-pills{
+	height: 80px;
+	background-color: black;
+	width: 100%;
+	margin-top: 50px;
+}
+
+.photo {
+	float:left;
+	margin-right:20px;
+	margin-top: 25px;
+	border:1px solid black;
+	width:244px;
+	height:244px;
+}
+
+.container {
+	font-family: Calibri;
+	font-size: 15pt;
+	line-height: 1.2;
+	padding: 25px;
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	vertical-align: baseline;
+	margin-top: 50px;
+}
+.span3{
+	background-color: #CDC9C9;
+	border: 1px solid black;
+}
+.span9{
+	background-color: #E6E6FA;
+	border: 1px solid black;
+}
+.span4{
+	background-color: #E6E6FA;
+	border: 1px solid black;
+	margin-left: 0px;
+	margin-top: 25px;
+}
+.reserve{
+	margin-top: 25px;
+	background-color: #E6E6FA;
+	border: 1px solid black;
+	width: 800px;
+	margin:0 auto;
+	margin:10px auto;
+	margin:10px auto 5px;
+	margin-top: 25px;
+}
+.header{
+	font-size: 17pt;
+	line-height: 1.2;
+	padding: 15px;
+	color: Blue;
+	font-weight: bold;
+	text-align: center;
+}
+.not-header{
+	color: Blue;
+	font-weight: bold;
+	text-align: left;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.normal{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.normal2{
+	padding-left: 10px;
+	padding-right: 10px;
+	width: 700px;
+	height: 200px;
+}
+.butt{
+	margin-top: 25px;
+	margin-left: 25px;
+	margin-bottom: 25px;
+}
+a:hover{
+    font-style: bold;
+    color: Black; 
+}
